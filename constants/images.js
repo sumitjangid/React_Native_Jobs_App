@@ -1,5 +1,5 @@
-// import profile from "../assets/images/profile.jpg";
+import profile from "../assets/images/profile.jpg";
 
-// export default {
-//   profile,
-// };
+export default {
+  profile,
+};
