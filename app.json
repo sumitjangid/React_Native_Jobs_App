@@ -8,6 +8,12 @@
       "expo-router"
     ],
     "name": "react-native-job-app",
-    "slug": "react-native-job-app"
+    "slug": "react-native-job-app",
+    "android": {
+      "package": "com.sumitjangid.reactnativejobapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sumitjangid.reactnativejobapp"
+    }
   }
 }
